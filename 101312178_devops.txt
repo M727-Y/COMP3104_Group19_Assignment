@@ -1,0 +1,7 @@
+DevOps course is COMP3104 Course. DevOps course has the best proffesor ever. We learn Development Operations. How to manage git hub account and use CI. 
+According to our first week presentation: "DevOps is a combination of software development and
+information technology operations that enables
+businesses to deliver applications at a faster pace. It
+brings together development and operations teams so
+there are fewer redundancies in the software
+development process"
