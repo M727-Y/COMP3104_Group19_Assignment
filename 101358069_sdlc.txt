@@ -1,0 +1,3 @@
+DevOps is a practice that aims to enhance the SDLC by applying CI/CD thus 
+making the process of planning, developing, deploying and maintaining 
+softare more streamline and efficient.
