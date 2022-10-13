@@ -1,1 +1,1 @@
-DevOps Operations are important in SDLC. DevOps tools improve communication among the team. 
+DevOps Operations are important in SDLC. DevOps tools improve communication among the team.  
