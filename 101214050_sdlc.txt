@@ -1,0 +1,5 @@
+Devops is a set of practices to improve prodictivity, increase software releases & Improve collab within teams.
+It focuses on the improving the Software Development Life Cycle (SDLC)- in each srage, Devops Engineers makes decisions to help improve the process.
+They will use CI/CD/ pipeline which is sequence to deliver a product from develtopment all the way to the final release.
+These sequences are developed through code & automation.
+Actions are implemented to produce an end to end process for a final software release/update.  
