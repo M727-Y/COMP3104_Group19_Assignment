@@ -1,4 +1,0 @@
-COMP 3104 is a Devops Course offered at GBC College, this course is to help guide professionals when going into the IT field.
-This course will provide lectures/ labs to apply experience through implelementing tried, tested & true Devops technologies.
-Devops provides a way to improve & create faster in a high paced environment.
-With a set of processed we can reduce IT overhead, better security practises, faster product delivery & improve communication/ collaboration among teams!
