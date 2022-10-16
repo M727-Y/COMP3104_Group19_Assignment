@@ -1,0 +1,6 @@
+Devops is a set of practices to improve productivity, increase software releases & improve collab within teams.
+It focuses on the improving the Software Development Life Cycle (SDLC)- in each stage, Devops Engineers makes decisions to help improve the process.
+A good devops engineer will always think about ways to lower expenses for a business via the tools they have.
+They will use CI/CD/ pipeline which is a sequence to deliver a product from development all the way to the final release.
+These sequences are developed through code & automation.
+Actions are implemented to produce an end to end process for a final software release/update.  
