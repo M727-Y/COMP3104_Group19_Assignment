@@ -1,0 +1,2 @@
+DevOps Operations are important in SDLC. DevOps tools improve communication among the team. The tools unify the work processes. Due to unification addaptation and communication among the team 
+and different teams takes less time. Developers do not have to learn different approaches to do the same processes.
